@@ -1,0 +1,18 @@
+body{
+	background-color: dimgray;
+}
+input {
+  width: 400px;
+  height: 20px;
+	border-radius: 5px;
+	border: none;
+}
+button {
+  background-color: gray;
+  margin-left: 10px;
+}
+button:hover {
+	background-color: black;
+	color: white;
+	transition: 0.8s	 ease;
+}
